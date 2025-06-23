@@ -1,0 +1,223 @@
+Brand_name,Ton,Condenser_Coil,Power_Consumption,Refrigerant,Noise_level,STAR,Ratings,Price
+Haier,1,Copper,704 W, R-32,26 dB,0,0,27294
+Daikin,1.5,Alloy,1304 W, R-32,42 dB,4.2,0,38999
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+Panasonic,1,Copper,1095 W, R-32,45 dB,4.3,10156,32999
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+Panasonic,1.5,Copper,1056.45 W, R-32,48 db,4.2,1125,35990
+SAMSUNG,1,Copper,920 W, R - 32,42 dB,4.3,227,30990
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+LG,1.5,Copper,1106.26 kWh, R - 32,44 dB,4,0,36499
+Voltas,1,Copper,1155 W, R32,46 dB,4.1,0,34990
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+Voltas,1.5,Copper,987.43, R - 32,46 dB,4.2,845,36999
+MOTOROLA,2,Copper,1356.23 W, R32,38 dB,4.4,588,39990
+Lloyd,1.5,Copper,1002.76 kWh, R-32,35 dB,4,602,35499
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.2,24780,36499
+Whirlpool,1.5,Copper,1660 W, R32,43 dB,4.2,28442,31990
+Voltas,1.5,Copper,1690 W, R32,46 dB,4.1,1856,34999
+LG,1.5,Copper,962.65 kWh, R32,26 dB,2.2,0,36490
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Hitachi,1.5,Copper,1575 W,d: No,50 dB,4.2,2102,33999
+Thomson,1,Copper,944 W, R - 32,48 dB,4.4,211,24490
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+CARRIER,1.5,Copper,1595 W,d: No,37 dB,0,0,38590
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.1,447,35490
+Lloyd,1.5,Copper,114.7 kWh,d: No,52 dB,3.8,0,31805
+Daikin,1.5,Copper,1752 W, R-32,35 dB,4.2,2468,38000
+Hitachi,1.5,Copper,1540 W, R410A,34 dB,3.9,2883,43999
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+Midea,1,Copper,1170 W, R-32,33 dB,5,0,30499
+SAMSUNG,1.5,Copper,1500 W, R32,35 dB,4.4,0,40450
+Daikin,1,Copper,848 W, R-32,37 dB,4.1,907,32330
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+ONIDA,1.5,Copper,1820 W, R32,45 dB,4.3,5199,31499
+Panasonic,1.5,Copper,1168.9 W, R - 32,56 dB,4,0,33720
+Daikin,1,Copper,940 W, R-32,27 dB,0,0,43499
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Haier,1.5,Copper,1451 W, R32,41 dB,0,0,38490
+Panasonic,1.5,Copper,840.75 kWh, R32,46 dB,4.8,0,42119
+ONIDA,1,Copper,1090 W, R - 32,37 dB,4.1,0,31999
+IFB,1.6,Copper,5650 W, R - 32,35 dB,3.9,0,37980
+Panasonic,1.5,Copper,1660 W,d: Yes,38 dB,0,0,42490
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Voltas,2,Copper,2000 W,d: No,58 dB,4.1,0,36763
+Panasonic,1.5,Copper,1168.9 W, R - 32,56 dB,4,0,33720
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+Voltas,1,Copper,3450 W, R - 32,45 dB,0,0,33300
+IFB,1.6,Copper,5650 W, R - 32,35 dB,3.9,0,37980
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Panasonic,1.5,Copper,1660 W,d: Yes,38 dB,0,0,42490
+LG,1.5,Copper,1015.7 kWh, R32,31 dB,3.8,0,45279
+Whirlpool,1.5,Copper,1890 W, R32,37 dB,4.1,0,36990
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+ONIDA,1,Copper,1090 W, R - 32,37 dB,4.1,0,31999
+Panasonic,1,Copper,1095 W, R-32,45 dB,4.3,10156,32999
+Panasonic,1.5,Copper,840.75 kWh, R32,46 dB,4.8,0,42119
+Whirlpool,1.5,Copper,1660 W,d: No,35 dB,4.1,134,35550
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.2,24780,36499
+Lloyd,1,Copper,574.71 kWh, R-32,36 dB,4.3,452,37999
+Croma,1.5,Copper,1430 W, R - 32,49 dB,0,0,28990
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Panasonic,2,Copper,1660 W,d: Yes,38 dB,0,0,53897
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Daikin,1,Copper,1200 W,d: No,27 dB,4.3,0,35590
+SAMSUNG,1.5,Copper,1700 W, R - 32,53 dB,4.8,0,34499
+Whirlpool,1,Copper,1140 W, R32,30 dB,5,0,34000
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Lloyd,2,Copper,1810 W,d: Yes,38 dB,0,0,54990
+Lloyd,2,Copper,1263.64 kWh, R-32,43 dB,4,715,48999
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+Haier,1.5,Copper,1630 W,d: No,59 dB,0,0,37499
+Daikin,1.5,Copper,1670 W,d: No,46 dB,0,0,44830
+Lloyd,2,Copper,1386.43 kWh, R-32,38 dB,4.1,388,47499
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+Voltas,1.5,Copper,1355 W, R32,46 dB,4.3,4522,39990
+Lloyd,1.5,Copper,1119.36 kWh, R-32,42 dB,4,715,32500
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.2,24780,36499
+Voltas,1.5,Copper,1729 W, R-22,58 dB,4.3,5995,27950
+Panasonic,1.5,Copper,1122.45 kWh,d: No,46 dB,0,0,38828
+LG,1.5,Copper,818.81 W,d: Yes,31 dB,4,0,45990
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+LG,1.5,Copper,1600 W,d: No,31 dB,0,0,37490
+Panasonic,1,Copper,915 W,d: Yes,38 dB,0,0,33490
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Micromax,1,Copper,997 W,d: No,41 dB,4,1074,27700
+SAMSUNG,1.5,Copper,1700 W, R32,35 dB,0,0,36249
+Lloyd,1.5,Copper,1835 W, R-32,42 dB,0,0,37500
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Godrej,1.5,Copper,1380 W, R32,40 dB,4.2,0,39399
+Daikin,1.5,Copper,1325 W,d: No,32 dB,3.7,0,47690
+Lloyd,1.5,Copper,1800 W, R410A,49 dB,4.2,249,39000
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+SAMSUNG,1,Alloy,930 W,d: No,48 dB,4.3,0,43500
+LG,1,Copper,3283 W, R - 32,20 dB,0,0,36990
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.2,24780,36499
+CARRIER,1.5,Copper,1118 W,d: No,38 dB,0,0,37990
+MOTOROLA,1,Copper,753.9 W, R32,32 dB,4.5,204,28990
+Haier,1,Copper,1200 W,d: No,37 dB,4.6,0,31990
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+CARRIER,2,Copper,1942 W,d: No,57 dB,0,0,40160
+Panasonic,1.5,Copper,1350 W, R32,48 dB,4.5,152,47000
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Panasonic,1.5,Copper,848.28 W, R-32,47 db,4.2,154,50990
+Lloyd,1.5,Copper,1077.45 kWh, R-32,40 dB,3.6,0,39400
+Voltas,1,Copper,1130 W, R32,39.5 dB,4.2,0,29898
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+Panasonic,1.5,Copper,1122.45 kWh,d: No,46 dB,0,0,38828
+LG,1.5,Copper,818.81 W,d: Yes,31 dB,4,0,45990
+Voltas,1.5,Copper,1520 W, R32,46 dB,4.2,3719,37499
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+Voltas,1.5,Copper,1350 W,d: No,42 dB,3.9,0,37900
+Micromax,1,Copper,997 W,d: No,41 dB,4,1074,27700
+LG,1.5,Copper,5000 W, R - 32,26 dB,0,0,38729
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.2,24780,36499
+Lloyd,1.5,Copper,1686 W,d: No,52 dB,0,0,35890
+CARRIER,1,Copper,995 W,d: No,40 dB,0,0,43505
+Daikin,1.5,Copper,1325 W,d: No,32 dB,3.7,0,47690
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.1,447,35490
+Panasonic,1.5,Copper,1870 W,d: Yes,48 dB,0,0,39914
+Daikin,1.5,Copper,1600 W,d: No,32 dB,4.9,0,44316
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+CARRIER,1,Copper,995 W,d: No,39 dB,0,0,33610
+LumX,1.5,Copper,1440 W, R32,43 dB,4.5,0,28990
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+CARRIER,1,Copper,980 W,d: No,39 dB,0,0,34999
+Daikin,1,Copper,1145 W, R-32,27 dB,0,0,35600
+iFFALCON,1,Copper,1120 W, R-32,37 dB,4.1,0,26490
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Daikin,1.5,Copper,1670 W,d: No,46 dB,0,0,42825
+SAMSUNG,1.5,Copper,1749 W,d: No,52 dB,0,0,39543
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.2,24780,36499
+Whirlpool,1.5,Copper,1365 W, R32,43 dB,4.2,28442,42899
+Voltas,1.5,Copper,1590 W,d: No,52 dB,4.2,3633,35999
+Panasonic,1.5,Copper,1650 W, R32,48 dB,4.5,152,43000
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Panasonic,1,Copper,1050 W,d: Yes,38 dB,0,0,37900
+CARRIER,1,Copper,995 W,d: No,39 dB,0,0,33605
+CARRIER,1.5,Copper,1560 W,d: No,48 dB,4.4,0,39100
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+Hitachi,1.5,Copper,1550 W,d: No,60 dB,0,0,43470
+LIVPURE,1.5,Copper,1600 W, R32,48 dB,4.2,2586,36990
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Whirlpool,1.5,Copper,1450 W,d: No,38 dB,0,0,36865
+SAMSUNG,2,Copper,1820 W, R32,35 dB,2.3,0,47879
+Haier,2,Copper,1937 W, R32,40 dB,3.3,0,39490
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+Daikin,1.5,Copper,1602 W, R-32,32 dB,3,0,41990
+Daikin,1.5,Copper,1315 W,d: No,47 dB,4.4,0,59900
+Hitachi,1.8,Copper,1405 kWh,d: No,37 dB,3.7,0,46199
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+SAMSUNG,1,Copper,711.4 kWh,d: No,42 dB,3.8,0,30699
+Whirlpool,1,Copper,758.86 W, R32,37 dB,3.9,0,31990
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Daikin,1.5,Copper,1740 W, R-32,35 dB,4,0,42990
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+Daikin,1.5,Copper,1290 W, R - 32,47 dB,4.3,109,46990
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+Voltas,1.5,Copper,1690 W, R32,46 dB,4,837,32990
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.1,447,35490
+Voltas,1.5,Copper,1729 W, R-32,58 dB,4.3,5995,28999
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.2,24780,36499
+Lloyd,1.5,Copper,1087.62 kWh, R-32,42 dB,4.1,417,34499
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Voltas,1.5,Copper,1685 W,d: No,46 dB,4.2,0,33999
+Lloyd,1,Copper,735.4 kWh, R-32,40 dB,4.1,417,29499
+Godrej,1.5,Copper,840.2 kWh, R32,43 dB,4.4,237,39990
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Panasonic,2,Copper,1264.42 W, R-32,50 db,4.3,10156,51990
+Godrej,1.5,Copper,840.2 kWh, R32,43 dB,4.4,237,39990
+Voltas,1.5,Copper,1750 W, R32,43 dB,4.2,1258,39999
+LG,1.5,Copper,5000 W, R-32 Refrigerant,44 dB,4.3,2273,36999
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+LG,1.5,Copper,5800 W, R - 32,31 dB,3.8,0,41928
+IFB,1.5,Copper,2590 W,d: No,39 dB,4.3,676,42990
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.2,24780,36499
+Godrej,1.5,Copper,840.2 kWh, R32,43 dB,4.7,0,36999
+Daikin,1.5,Copper,1278 W, R-32,44 dB,4.1,907,39320
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+IFB,1.5,Copper,1088 W, R-32,39 dB,4.1,1076,34990
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+Lloyd,1.5,Copper,1114.71 kWh, R-32,52 dB,4.1,360,30999
+CARRIER,1.5,Copper,1522 W, R32,58 dB,4.2,810,35999
+SAMSUNG,1.5,Copper,1380 W, R - 32,59 dB,4.2,0,41975
+Hitachi,1.5,Copper,1134.28 W, R32,50 dB,3.9,2229,35490
+Panasonic,1,Copper,990 W, R-32,45 dB,4.3,10156,36490
+Daikin,1,Copper,1200 W,d: No,27 dB,4.3,0,35590
+CARRIER,1.5,Copper,1700 W,d: No,37 dB,0,0,37677
+Daikin,1,Copper,1110 W, R32,26 dB,4.2,2468,34490
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+CARRIER,2,Copper,1665 W,d: No,40 dB,0,0,49990
+Daikin,1,Copper,940 W, R-32,42 dB,4.2,939,40599
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+Voltas,1,Copper,1130 W, R32,41.5 dB,4.4,0,31990
+Hitachi,1,Copper,965 W, R410a,35 dB,4.5,0,37949
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+LG,1,Copper,1080 W, R32,21 dB,4.4,3900,37500
+Godrej,2,Copper,1625 W, R32,53 dB,4.6,0,32990
+Daikin,1.8,Copper,1202.77 kWh,d: No,47 dB,0,0,51274
+Panasonic,1,Copper,1095 W, R-32,45 dB,4.3,10156,32999
+Whirlpool,1.5,Copper,2100 W,d: No,37 dB,4.3,0,42000
+SAMSUNG,1.5,Copper,1490 W, R-32,45 dB,4.2,24780,36499
+Panasonic,1,Copper,1095 W, R-32,45 dB,4.2,1125,32490
+Panasonic,1,Copper,880 W, R32,45 dB,4.4,0,39990
+Panasonic,1.5,Copper,840.75 kWh, R-32,46 dB,4.3,10156,42990
+Lloyd,1,Copper,711.74 kWh, R-32,36 dB,0,0,31499
+Godrej,1.5,Copper,1380 W, R32,40 dB,4.2,0,39399
+Whirlpool,1.5,Copper,1752 W, R32,42 dB,4.1,176,36000
+Panasonic,1.5,Copper,1770 W, R-32,48 dB,4.3,10156,36990
+LG,1.5,Copper,1600 W,d: No,31 dB,4.5,0,35999
+Hitachi,1.5,Copper,1277.28 kWh, R32,50 dB,3.9,2229,27999
+Hitachi,1.5,Copper,1277.65 W, R32,50 dB,3.9,2229,29499
+Croma,1.5,Copper,1570 W, R - 32,49 dB,3.8,75,28490
+SAMSUNG,1.5,Aluminium,1870 W,d: No,52 dB,4.3,0,40500
+Godrej,1.5,Copper,1840 W, R32,60 dB,4.2,0,32990
+Panasonic,1,Copper,1095 W, R-32,45 dB,4.3,10156,32999
+Lloyd,1.5,Copper,1440 W, R-32,57 dB,4.1,0,34890
+Hitachi,2,Copper,2350 W, R410A,37 dB,4.2,2029,49500
+CARRIER,1.5,Copper,1550 W, R32,58 dB,4.2,810,32999
+LIVPURE,1,Copper,1080 W, R32,45 dB,4.2,2586,38990
+SAMSUNG,1.5,Copper,1490 W, R32,45 dB,0,0,38559
