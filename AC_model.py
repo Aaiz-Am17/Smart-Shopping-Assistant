@@ -67,7 +67,7 @@ class ACModel:
         if self.df is None:
             return
 
-        self.df = self._preprocess_data(self.df.copy()) # Use a copy to avoid modifying original df during preprocessing
+        self.df = self._preprocess_data(self.df.copy()) # Using a copy to avoid modifying original df during preprocessing
 
         X = self.df[['Condenser_Coil', 'Refrigerant', 'Power_Consumption', 'Noise_level']]
         y = self.df['Price']
@@ -131,7 +131,7 @@ class ACModel:
             raise ValueError("AC model is not trained or loaded properly.")
 
         # Map 'Low', 'Medium', 'High' for Power_Consumption and Noise_level to numerical values
-        # These mappings should ideally be based on the min/median/max of your training data.
+        # These mappings should ideally be based on the min/median/max of the training data.
         power_map = {'Low': self.df['Power_Consumption'].min(), 'Medium': self.df['Power_Consumption'].median(), 'High': self.df['Power_Consumption'].max()}
         noise_map = {'Low': self.df['Noise_level'].min(), 'Medium': self.df['Noise_level'].median(), 'High': self.df['Noise_level'].max()}
 
@@ -150,7 +150,7 @@ class ACModel:
 
 # Example Usage (for testing the module independently)
 if __name__ == "__main__":
-    AC_FILE_PATH = "C:\\WOLF\\Private\\GUNI YEAR 3\\SEMESTER 1\\ML\\Air_condition_dataset.csv"
+    AC_FILE_PATH = "Dataset/Air_condition_dataset.csv"
     ac_predictor = ACModel(AC_FILE_PATH)
     print(f"AC Load Message: {ac_predictor.load_message}")
     if ac_predictor.ensemble_model:
