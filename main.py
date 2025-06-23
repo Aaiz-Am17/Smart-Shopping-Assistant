@@ -6,7 +6,7 @@ from tv_model import TVModel
 from google.generativeai import Client as GenerativeAIClient
 
 # Dataset paths (UPDATE THESE TO YOUR ACTUAL PATHS)
-AC_FILE_PATH = "Dataset/Air_condition_dataset.csv""Dataset/TELEVISION.csv"
+AC_FILE_PATH = "Dataset/Air_condition_dataset.csv"
 TV_FILE_PATH = "Dataset/TELEVISION.csv"
 
 # Google Generative AI API Key
