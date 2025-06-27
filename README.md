@@ -213,6 +213,3 @@ This project is open-sourced under the [MIT License](https://www.google.com/sear
 -----
 
 **Happy Shopping\!** 🛒✨
-
-```
-```
