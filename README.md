@@ -2,6 +2,7 @@
 
 ## Your Intelligent Guide to Smarter Purchases
 
+[![GitHub stars](https://img.shields.io/github/stars/Aaiz-Am17/Smart-Shopping-Assistant?style=social)](https://github.com/Aaiz-Am17/Smart-Shopping-Assistant/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Aaiz-Am17/Smart-Shopping-Assistant?color=brightgreen)](https://github.com/Aaiz-Am17/Smart-Shopping-Assistant/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
