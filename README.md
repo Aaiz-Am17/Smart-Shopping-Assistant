@@ -93,7 +93,7 @@ To get the Smart Shopping Assistant up and running on your local machine, follow
 First, clone this repository to your local system using Git:
 
 ```bash
-git clone [https://github.com/Aaiz-Am17/Smart-Shopping-Assistant.git](https://github.com/Aaiz-Am17/Smart-Shopping-Assistant.git)
+git clone https://github.com/Aaiz-Am17/Smart-Shopping-Assistan.git
 cd Smart-Shopping-Assistant
 ````
 
